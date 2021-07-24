@@ -1,0 +1,1 @@
+print("It was a darkand stormy night.")
